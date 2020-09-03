@@ -1,0 +1,2 @@
+body{background-color:#f5f5ca}.App{width:500px;margin:100px auto 0}.App__title{text-align:center}.buttons{display:grid;grid-template-columns:repeat(3,auto);grid-column-gap:20px}.buttons__button{padding:15px;font-size:20px;color:#fff;border:none;border-radius:5px;cursor:pointer}.buttons__button--red{background-color:#e64949}.buttons__button--green{background-color:#4cd84c}.buttons__button--yellow{background-color:#f3f358}.buttons__button:focus{outline:none}
+/*# sourceMappingURL=main.605b0a2d.chunk.css.map */
